@@ -1,2 +1,1 @@
-# Mahitha
 hey there!
