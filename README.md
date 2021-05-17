@@ -1,1 +1,2 @@
-<h2 style="align: center"> Hey there! 👋 </h2>
+
+<h2 align="center"> Hey there! 👋 </h2>
