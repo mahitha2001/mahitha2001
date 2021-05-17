@@ -2,7 +2,5 @@
 <h2 > Hey there! 👋 </h2>
 <i> Welcome to Mahitha's github </i>
 <br>
-<hr>
-<br>
-<a href="https://www.linkedin.com/in/mahitha-gurrala-b839051a8/"> linkedin </a>
+<a href="https://www.linkedin.com/in/mahitha-gurrala-b839051a8/" color="black"> linkedin </a>
 </div>
